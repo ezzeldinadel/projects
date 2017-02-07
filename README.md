@@ -46,3 +46,4 @@ ezScanner - When you are conducting a penetration test on a corporate network yo
 
 ezEncryptor - Your secrets were meant to be for you. Don't expose them by undermining their security! Encrypt your important data now with a private key instantly and easily with the all new EZ Encryptor. No way anyone else will have your data without your private key. Convenient to store passwords or passcodes ( useful for temporarily passwords, email list, visa and credit card info, sharing secrets and backup codes). Security was never that easy!
 [C++, Cryptography, 2014]
+</p>
